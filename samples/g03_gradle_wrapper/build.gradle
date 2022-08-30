@@ -1,0 +1,5 @@
+apply plugin: 'java'
+
+wrapper {
+    gradleVersion = '7.5'
+}

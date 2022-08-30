@@ -1,0 +1,6 @@
+*.class
+*.jar
+.gradle
+!gradle-wrapper.jar
+build
+META-INF
